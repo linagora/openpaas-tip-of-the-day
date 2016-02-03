@@ -115,8 +115,13 @@ img {
   max-width: none;
 }
 
-.date {
+.date, .contributor {
   font-style: italic;
+  color: $gray;
+}
+
+.meta {
+  font-size: 70%;
   color: $gray;
 }
 
