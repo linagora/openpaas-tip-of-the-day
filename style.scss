@@ -164,6 +164,9 @@ img {
 }
 
 .site-avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   float: left;
   width: 70px;
   height: 70px;
