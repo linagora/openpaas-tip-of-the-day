@@ -44,6 +44,8 @@ Take a particular look inside the root index.js file in which a few comments are
 
 Now this is quiet simple. Either copy your new module inside **esn_repository_root/modules** or create a **symbolic link**. Then register your module in the **esn_repository_root/config/default.json** file under the **modules** key.
 
+Be aware that using a **symbolic link** will require to run **npm install** in the original directory of you module.
+
 ```
   ...
   "modules": [
