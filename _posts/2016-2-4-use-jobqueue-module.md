@@ -7,6 +7,8 @@ tip-username-profile: https://github.com/btngo
 tip-tldr: Creating and managing job jobqueue module.
 ---
 
+OpenPaas offers many existing modules for you to use. This tip will show you how to use the jobqueue module, allowing to start background job and getting progressing informations about this job using Kue.
+
 ### Prerequisite
 [Create an OpenPaas module](https://github.com/linagora/openpaas-tip-of-the-day/blob/gh-pages/_posts/2016-2-2-create-a-new-module.md)
 
