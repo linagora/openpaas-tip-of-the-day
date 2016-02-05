@@ -6,6 +6,8 @@ Here you will find a great daily OpenPaas tip that will teach you everything abo
 Do not hesitate to send a beautiful PR!
 Follow those [instructions](https://github.com/linagora/openpaas-tip-of-the-day/blob/gh-pages/CONTRIBUTING.md).
 
+Then your tip will directly be added and displayed with your name, in the [official blog](http://linagora.github.io/openpaas-tip-of-the-day/).
+
 # Tips list
 
 - 04 - [How to use Dynamic Directives](https://github.com/linagora/openpaas-tip-of-the-day/blob/gh-pages/_posts/2016-2-5-dynamic-directives.md)
