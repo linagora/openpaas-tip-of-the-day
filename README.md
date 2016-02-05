@@ -52,6 +52,7 @@ Then browse http://DOCKER_IP:4000/openpaas-tip-of-the-day/
 
 # Tips list
 
+- 05 - [How to contribute to mail server](https://github.com/linagora/openpaas-tip-of-the-day/blob/gh-pages/_posts/2016-2-6-contribute-to-mail-server.md)
 - 04 - [How to use Dynamic Directives](https://github.com/linagora/openpaas-tip-of-the-day/blob/gh-pages/_posts/2016-2-5-dynamic-directives.md)
 - 03 - [How to launch job in jobqueue](https://github.com/linagora/openpaas-tip-of-the-day/blob/gh-pages/_posts/2016-2-4-use-jobqueue-module.md)
 - 02 - [How to mobile template](https://github.com/linagora/openpaas-tip-of-the-day/blob/gh-pages/_posts/2016-2-3-how-to-mobile-template.md)
