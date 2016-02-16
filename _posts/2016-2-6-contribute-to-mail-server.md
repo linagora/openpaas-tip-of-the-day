@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contribute to mail server
-tip-number: 06
+tip-number: 05
 tip-username: aduprat
 tip-username-profile: https://github.com/aduprat
 tip-tldr: Contributing to an awesome mail server.
