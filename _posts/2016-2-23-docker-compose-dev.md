@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to ease development with docker-compose
-tip-number: 06
+tip-number: 07
 tip-username: chamerling
 tip-username-profile: https://github.com/chamerling
 tip-tldr: How to ease your OpenPaas ESN development with docker-compose
