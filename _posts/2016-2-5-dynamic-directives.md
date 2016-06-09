@@ -30,7 +30,7 @@ angular.module('your-app', ['op.dynamicDirective'])
 .directive('addButton', ['dynamicDirectiveService', function(dynamicDirectiveService) {
   return {
     restrict: 'A',
-    link: funtion(scope) {
+    link: function(scope) {
       var dir2 = new dynamicDirectiveService.DynamicDirective(
         function(scope) {return true;},
         'dir2'
@@ -40,8 +40,8 @@ angular.module('your-app', ['op.dynamicDirective'])
       };
     }
   };
-});
-;
+}]);
+
 ```
 
 ```html
@@ -75,7 +75,7 @@ Each module can then push an application menu item, which use the dynamic-direct
 angular.module('linagora.esn.contact')
   .directive('applicationMenuContact', function(applicationMenuTemplateBuilder) {
     return {
-      retrict: 'E',
+      restrict: 'E',
       replace: true,
       template: applicationMenuTemplateBuilder('/#/contact', 'mdi-account-multiple', 'Contacts')
     };
