@@ -22,7 +22,7 @@ backend/             --> All of the source files of the backend of your applicat
     api/             --> Every exposed endpoints
     config/          --> All of the files of the configuration of express
     index.js         --> The main file describing the express server
-frontend/            --> All of the source files of the backend of your application
+frontend/            --> All of the source files of the frontend of your application
   css/
     styles.less      --> The main stylesheet file
   js/
