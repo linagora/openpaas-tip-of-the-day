@@ -52,6 +52,7 @@ Then browse http://DOCKER_IP:4000/openpaas-tip-of-the-day/
 
 # Tips list
 
+- 08 - [Unit test tips & tricks - Episode 1 - Avoid timeout in async test](https://github.com/linagora/openpaas-tip-of-the-day/blob/gh-pages/_posts/2016-10-21-unit-test-e1-async-test.md)
 - 07 - [How to ease your OpenPaas ESN development with docker-compose](https://github.com/linagora/openpaas-tip-of-the-day/blob/gh-pages/_posts/2016-2-23-docker-compose-dev.md)
 - 06 - [How to get and set configurations in the ESN](https://github.com/linagora/openpaas-tip-of-the-day/blob/gh-pages/_posts/2016-2-16-esn-config.md)
 - 05 - [How to contribute to mail server](https://github.com/linagora/openpaas-tip-of-the-day/blob/gh-pages/_posts/2016-2-6-contribute-to-mail-server.md)
