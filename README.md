@@ -1,3 +1,5 @@
+![Archived](https://img.shields.io/badge/Current_Status-archived-blue?style=flat)
+
 # OpenPaas one tip per day
 
 Here you will find a great daily OpenPaas tip that will teach you everything about this very big project.
